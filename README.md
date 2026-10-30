@@ -40,6 +40,38 @@
 | **[Chrome Profile Guard](https://github.com/saifmodan2006/chrome-profile-guard-)** | Chrome extension to guard and manage Chrome profiles. Featured by OpenDevHub. **JavaScript, Chrome Extension** |
 | **[AetherDrive](https://github.com/saifmodan2006/AetherDrive)** | Cloud storage web app with multi-format uploads, secure access tokens, folders, and responsive previews. **React, TypeScript** |
 
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/saifmodan2006/saifmodan2006/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## Current Focus
+
+- Building AI and data products at **DeepNeuralAI** as an AIML Intern
+- Going deeper on RAG systems, LLM apps, and production Python
+- Open to **full-time Software Engineer / Data Analyst roles**, remote worldwide
+
+## More Builds
+
+<details>
+<summary><b>Click to see more projects</b></summary>
+
+<br>
+
+- **[AI Resume Analyzer](https://github.com/saifmodan2006/AI_Resume_Analyzer)** - Resume analysis with NLP keyword scoring
+- **[Visual AI Activity Tracker](https://github.com/saifmodan2006/visual-ai-activity-tracker)** - Real-time pose estimation and activity tracking with OpenCV and MediaPipe
+- **[College Event Management](https://github.com/saifmodan2006/College-Event-Management)** - Full-stack event management system with Flask and MySQL
+- **[Customer Churn Prediction](https://github.com/saifmodan2006/customer-churn-prediction)** - ML model to predict customer churn
+- **[Email Spam Detection](https://github.com/saifmodan2006/Email-Spam-Detection)** - ML based spam classification
+- **[RetailPilot AI](https://github.com/saifmodan2006/retailpilot-ai)** - Retail operations platform for sales analytics and demand prediction
+
+</details>
+
 ## GitHub Stats
 
 <div align="center">
@@ -51,6 +83,17 @@
 
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saifmodan2006&theme=tokyonight)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saifmodan2006&theme=tokyonight)
+
+</div>
+
+---
+
+## Work With Me
+
+<div align="center">
+
+**I am looking for a full-time Software Engineer / Data Analyst role.**
+**If you are hiring for Python, AI/ML, or Data, I would love to talk.**
 
 </div>
 
